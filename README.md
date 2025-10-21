@@ -27,7 +27,6 @@ This repository contains my Level 2 Frontend Development project, showcasing res
 ├── index.html
 ├── css/
 │   ├── style.css
-│   └── [other CSS files]
 ├── images/
 │   └── [image files]
 └── README.md
