@@ -10,7 +10,7 @@ This repository contains my Level 2 Frontend Development project, showcasing res
 📁 [GitHub Repository](https://github.com/emmytronix/Level2_Frontend_Emmanuel_Udodirim)
 
 ## Project Screenshot
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](./images/screenshot.PNG)
 
 ## Features
 - Responsive design for various screen sizes
@@ -28,8 +28,6 @@ This repository contains my Level 2 Frontend Development project, showcasing res
 ├── css/
 │   ├── style.css
 │   └── [other CSS files]
-├── js/
-│   └── [JavaScript files]
 ├── images/
 │   └── [image files]
 └── README.md
